@@ -1,0 +1,92 @@
+{
+  "result": [
+    {
+      "message": "Hello, Gideon! Your order number is: #95",
+      "phoneNumber": "478-222-5503 x23998",
+      "phoneVariation": "+90 391 921 10 27",
+      "status": "active",
+      "name": {
+        "first": "Devon",
+        "middle": "Greer",
+        "last": "Nikolaus"
+      },
+      "username": "Devon-Nikolaus",
+      "password": "Art6OBaUF4MqA1C",
+      "emails": [
+        "Vella.Hansen40@gmail.com",
+        "Thaddeus.Pouros@example.com"
+      ],
+      "location": {
+        "street": "30918 Olaf Unions",
+        "city": "Port Amber",
+        "state": "Washington",
+        "country": "Dominican Republic",
+        "zip": "43601",
+        "coordinates": {
+          "latitude": "-40.1769",
+          "longitude": "-80.8364"
+        }
+      },
+      "website": "https://illiterate-horse.biz/",
+      "domain": "distinct-shallot.name",
+      "job": {
+        "title": "Customer Mobility Architect",
+        "descriptor": "Future",
+        "area": "Communications",
+        "type": "Facilitator",
+        "company": "Torp, Prohaska and Rau"
+      },
+      "creditCard": {
+        "number": "6011-3842-0496-8285",
+        "cvv": "591",
+        "issuer": "american_express"
+      },
+      "uuid": "c69f092c-8d31-44e2-b285-33a42ac4e5fb",
+      "objectId": "684c1985f64fca9ef3c4c417"
+    },
+    {
+      "message": "Hello, Miller! Your order number is: #41",
+      "phoneNumber": "(734) 457-2063 x43896",
+      "phoneVariation": "+90 371 465 10 80",
+      "status": "disabled",
+      "name": {
+        "first": "Loyce",
+        "middle": "Phoenix",
+        "last": "Stiedemann"
+      },
+      "username": "Loyce-Stiedemann",
+      "password": "aB1Az4hIkIvnU_D",
+      "emails": [
+        "Reece_Buckridge@gmail.com",
+        "Marcel_Blanda61@gmail.com"
+      ],
+      "location": {
+        "street": "8456 Victoria Place",
+        "city": "Port Leo",
+        "state": "Alabama",
+        "country": "Cote d'Ivoire",
+        "zip": "78151-5714",
+        "coordinates": {
+          "latitude": "32.6945",
+          "longitude": "-98.0533"
+        }
+      },
+      "website": "https://keen-default.org",
+      "domain": "worried-gauge.org",
+      "job": {
+        "title": "Legacy Functionality Designer",
+        "descriptor": "Direct",
+        "area": "Integration",
+        "type": "Strategist",
+        "company": "Parker, Langosh and Batz"
+      },
+      "creditCard": {
+        "number": "6762-1351-5823-6587",
+        "cvv": "190",
+        "issuer": "discover"
+      },
+      "uuid": "988db9fd-9b1a-45bb-9201-e0c7bee679c1",
+      "objectId": "684c1985f64fca9ef3c4c418"
+    }
+  ]
+}
