@@ -1,0 +1,4430 @@
+{
+  "name": "MegaTech University",
+  "location": {
+    "country": "India",
+    "city": "Hyderabad",
+    "coordinates": {
+      "lat": 17.385044,
+      "lng": 78.486671
+    }
+  },
+  "departments": [
+    {
+      "name": "Computer Science",
+      "hod": {
+        "name": "Dr.ComputerScience",
+        "contact": {
+          "email": "computerscience@university.edu",
+          "phone": "9347863704"
+        }
+      },
+      "students": [
+        {
+          "id": 1,
+          "name": "Student1",
+          "scores": {
+            "ds": 73,
+            "algo": 75,
+            "os": 94,
+            "dbms": 68,
+            "cn": 77
+          }
+        },
+        {
+          "id": 2,
+          "name": "Student2",
+          "scores": {
+            "ds": 84,
+            "algo": 56,
+            "os": 78,
+            "dbms": 75,
+            "cn": 74
+          }
+        },
+        {
+          "id": 3,
+          "name": "Student3",
+          "scores": {
+            "ds": 89,
+            "algo": 53,
+            "os": 62,
+            "dbms": 91,
+            "cn": 93
+          }
+        },
+        {
+          "id": 4,
+          "name": "Student4",
+          "scores": {
+            "ds": 94,
+            "algo": 56,
+            "os": 66,
+            "dbms": 51,
+            "cn": 88
+          }
+        },
+        {
+          "id": 5,
+          "name": "Student5",
+          "scores": {
+            "ds": 96,
+            "algo": 80,
+            "os": 74,
+            "dbms": 78,
+            "cn": 68
+          }
+        },
+        {
+          "id": 6,
+          "name": "Student6",
+          "scores": {
+            "ds": 97,
+            "algo": 93,
+            "os": 68,
+            "dbms": 70,
+            "cn": 87
+          }
+        },
+        {
+          "id": 7,
+          "name": "Student7",
+          "scores": {
+            "ds": 90,
+            "algo": 57,
+            "os": 79,
+            "dbms": 82,
+            "cn": 55
+          }
+        },
+        {
+          "id": 8,
+          "name": "Student8",
+          "scores": {
+            "ds": 59,
+            "algo": 63,
+            "os": 64,
+            "dbms": 73,
+            "cn": 97
+          }
+        },
+        {
+          "id": 9,
+          "name": "Student9",
+          "scores": {
+            "ds": 58,
+            "algo": 69,
+            "os": 84,
+            "dbms": 82,
+            "cn": 52
+          }
+        },
+        {
+          "id": 10,
+          "name": "Student10",
+          "scores": {
+            "ds": 61,
+            "algo": 95,
+            "os": 100,
+            "dbms": 57,
+            "cn": 87
+          }
+        },
+        {
+          "id": 11,
+          "name": "Student11",
+          "scores": {
+            "ds": 75,
+            "algo": 67,
+            "os": 56,
+            "dbms": 62,
+            "cn": 93
+          }
+        },
+        {
+          "id": 12,
+          "name": "Student12",
+          "scores": {
+            "ds": 87,
+            "algo": 82,
+            "os": 89,
+            "dbms": 94,
+            "cn": 94
+          }
+        },
+        {
+          "id": 13,
+          "name": "Student13",
+          "scores": {
+            "ds": 56,
+            "algo": 62,
+            "os": 59,
+            "dbms": 94,
+            "cn": 77
+          }
+        },
+        {
+          "id": 14,
+          "name": "Student14",
+          "scores": {
+            "ds": 57,
+            "algo": 85,
+            "os": 84,
+            "dbms": 93,
+            "cn": 98
+          }
+        },
+        {
+          "id": 15,
+          "name": "Student15",
+          "scores": {
+            "ds": 68,
+            "algo": 67,
+            "os": 65,
+            "dbms": 98,
+            "cn": 92
+          }
+        },
+        {
+          "id": 16,
+          "name": "Student16",
+          "scores": {
+            "ds": 62,
+            "algo": 56,
+            "os": 88,
+            "dbms": 65,
+            "cn": 80
+          }
+        },
+        {
+          "id": 17,
+          "name": "Student17",
+          "scores": {
+            "ds": 93,
+            "algo": 80,
+            "os": 69,
+            "dbms": 78,
+            "cn": 55
+          }
+        },
+        {
+          "id": 18,
+          "name": "Student18",
+          "scores": {
+            "ds": 77,
+            "algo": 96,
+            "os": 96,
+            "dbms": 50,
+            "cn": 88
+          }
+        },
+        {
+          "id": 19,
+          "name": "Student19",
+          "scores": {
+            "ds": 68,
+            "algo": 93,
+            "os": 52,
+            "dbms": 83,
+            "cn": 79
+          }
+        },
+        {
+          "id": 20,
+          "name": "Student20",
+          "scores": {
+            "ds": 91,
+            "algo": 75,
+            "os": 60,
+            "dbms": 74,
+            "cn": 96
+          }
+        },
+        {
+          "id": 21,
+          "name": "Student21",
+          "scores": {
+            "ds": 72,
+            "algo": 50,
+            "os": 82,
+            "dbms": 80,
+            "cn": 79
+          }
+        },
+        {
+          "id": 22,
+          "name": "Student22",
+          "scores": {
+            "ds": 63,
+            "algo": 63,
+            "os": 67,
+            "dbms": 70,
+            "cn": 91
+          }
+        },
+        {
+          "id": 23,
+          "name": "Student23",
+          "scores": {
+            "ds": 51,
+            "algo": 88,
+            "os": 89,
+            "dbms": 69,
+            "cn": 90
+          }
+        },
+        {
+          "id": 24,
+          "name": "Student24",
+          "scores": {
+            "ds": 93,
+            "algo": 52,
+            "os": 73,
+            "dbms": 95,
+            "cn": 88
+          }
+        },
+        {
+          "id": 25,
+          "name": "Student25",
+          "scores": {
+            "ds": 79,
+            "algo": 68,
+            "os": 66,
+            "dbms": 52,
+            "cn": 79
+          }
+        },
+        {
+          "id": 26,
+          "name": "Student26",
+          "scores": {
+            "ds": 81,
+            "algo": 86,
+            "os": 74,
+            "dbms": 57,
+            "cn": 71
+          }
+        },
+        {
+          "id": 27,
+          "name": "Student27",
+          "scores": {
+            "ds": 89,
+            "algo": 90,
+            "os": 52,
+            "dbms": 79,
+            "cn": 78
+          }
+        },
+        {
+          "id": 28,
+          "name": "Student28",
+          "scores": {
+            "ds": 72,
+            "algo": 99,
+            "os": 73,
+            "dbms": 71,
+            "cn": 86
+          }
+        },
+        {
+          "id": 29,
+          "name": "Student29",
+          "scores": {
+            "ds": 72,
+            "algo": 70,
+            "os": 67,
+            "dbms": 63,
+            "cn": 50
+          }
+        },
+        {
+          "id": 30,
+          "name": "Student30",
+          "scores": {
+            "ds": 79,
+            "algo": 77,
+            "os": 76,
+            "dbms": 95,
+            "cn": 100
+          }
+        },
+        {
+          "id": 31,
+          "name": "Student31",
+          "scores": {
+            "ds": 80,
+            "algo": 62,
+            "os": 100,
+            "dbms": 62,
+            "cn": 59
+          }
+        },
+        {
+          "id": 32,
+          "name": "Student32",
+          "scores": {
+            "ds": 88,
+            "algo": 51,
+            "os": 88,
+            "dbms": 85,
+            "cn": 54
+          }
+        },
+        {
+          "id": 33,
+          "name": "Student33",
+          "scores": {
+            "ds": 91,
+            "algo": 72,
+            "os": 87,
+            "dbms": 69,
+            "cn": 80
+          }
+        },
+        {
+          "id": 34,
+          "name": "Student34",
+          "scores": {
+            "ds": 55,
+            "algo": 96,
+            "os": 80,
+            "dbms": 76,
+            "cn": 76
+          }
+        },
+        {
+          "id": 35,
+          "name": "Student35",
+          "scores": {
+            "ds": 66,
+            "algo": 81,
+            "os": 94,
+            "dbms": 53,
+            "cn": 70
+          }
+        },
+        {
+          "id": 36,
+          "name": "Student36",
+          "scores": {
+            "ds": 67,
+            "algo": 53,
+            "os": 73,
+            "dbms": 81,
+            "cn": 79
+          }
+        },
+        {
+          "id": 37,
+          "name": "Student37",
+          "scores": {
+            "ds": 51,
+            "algo": 62,
+            "os": 52,
+            "dbms": 73,
+            "cn": 77
+          }
+        },
+        {
+          "id": 38,
+          "name": "Student38",
+          "scores": {
+            "ds": 83,
+            "algo": 58,
+            "os": 66,
+            "dbms": 85,
+            "cn": 73
+          }
+        },
+        {
+          "id": 39,
+          "name": "Student39",
+          "scores": {
+            "ds": 82,
+            "algo": 82,
+            "os": 56,
+            "dbms": 73,
+            "cn": 73
+          }
+        },
+        {
+          "id": 40,
+          "name": "Student40",
+          "scores": {
+            "ds": 78,
+            "algo": 92,
+            "os": 75,
+            "dbms": 58,
+            "cn": 54
+          }
+        },
+        {
+          "id": 41,
+          "name": "Student41",
+          "scores": {
+            "ds": 72,
+            "algo": 52,
+            "os": 59,
+            "dbms": 93,
+            "cn": 63
+          }
+        },
+        {
+          "id": 42,
+          "name": "Student42",
+          "scores": {
+            "ds": 80,
+            "algo": 69,
+            "os": 52,
+            "dbms": 76,
+            "cn": 87
+          }
+        },
+        {
+          "id": 43,
+          "name": "Student43",
+          "scores": {
+            "ds": 88,
+            "algo": 63,
+            "os": 51,
+            "dbms": 54,
+            "cn": 67
+          }
+        },
+        {
+          "id": 44,
+          "name": "Student44",
+          "scores": {
+            "ds": 68,
+            "algo": 94,
+            "os": 83,
+            "dbms": 73,
+            "cn": 86
+          }
+        },
+        {
+          "id": 45,
+          "name": "Student45",
+          "scores": {
+            "ds": 71,
+            "algo": 67,
+            "os": 97,
+            "dbms": 91,
+            "cn": 98
+          }
+        },
+        {
+          "id": 46,
+          "name": "Student46",
+          "scores": {
+            "ds": 71,
+            "algo": 62,
+            "os": 89,
+            "dbms": 99,
+            "cn": 99
+          }
+        },
+        {
+          "id": 47,
+          "name": "Student47",
+          "scores": {
+            "ds": 100,
+            "algo": 94,
+            "os": 94,
+            "dbms": 64,
+            "cn": 77
+          }
+        },
+        {
+          "id": 48,
+          "name": "Student48",
+          "scores": {
+            "ds": 58,
+            "algo": 67,
+            "os": 77,
+            "dbms": 71,
+            "cn": 77
+          }
+        },
+        {
+          "id": 49,
+          "name": "Student49",
+          "scores": {
+            "ds": 96,
+            "algo": 100,
+            "os": 78,
+            "dbms": 83,
+            "cn": 83
+          }
+        },
+        {
+          "id": 50,
+          "name": "Student50",
+          "scores": {
+            "ds": 97,
+            "algo": 89,
+            "os": 90,
+            "dbms": 86,
+            "cn": 51
+          }
+        },
+        {
+          "id": 51,
+          "name": "Student51",
+          "scores": {
+            "ds": 72,
+            "algo": 59,
+            "os": 80,
+            "dbms": 52,
+            "cn": 64
+          }
+        },
+        {
+          "id": 52,
+          "name": "Student52",
+          "scores": {
+            "ds": 52,
+            "algo": 66,
+            "os": 70,
+            "dbms": 92,
+            "cn": 61
+          }
+        },
+        {
+          "id": 53,
+          "name": "Student53",
+          "scores": {
+            "ds": 94,
+            "algo": 100,
+            "os": 86,
+            "dbms": 98,
+            "cn": 52
+          }
+        },
+        {
+          "id": 54,
+          "name": "Student54",
+          "scores": {
+            "ds": 60,
+            "algo": 100,
+            "os": 86,
+            "dbms": 69,
+            "cn": 84
+          }
+        },
+        {
+          "id": 55,
+          "name": "Student55",
+          "scores": {
+            "ds": 71,
+            "algo": 74,
+            "os": 59,
+            "dbms": 92,
+            "cn": 55
+          }
+        },
+        {
+          "id": 56,
+          "name": "Student56",
+          "scores": {
+            "ds": 99,
+            "algo": 97,
+            "os": 83,
+            "dbms": 59,
+            "cn": 85
+          }
+        },
+        {
+          "id": 57,
+          "name": "Student57",
+          "scores": {
+            "ds": 82,
+            "algo": 74,
+            "os": 71,
+            "dbms": 78,
+            "cn": 69
+          }
+        },
+        {
+          "id": 58,
+          "name": "Student58",
+          "scores": {
+            "ds": 93,
+            "algo": 90,
+            "os": 86,
+            "dbms": 63,
+            "cn": 57
+          }
+        },
+        {
+          "id": 59,
+          "name": "Student59",
+          "scores": {
+            "ds": 72,
+            "algo": 98,
+            "os": 65,
+            "dbms": 100,
+            "cn": 81
+          }
+        },
+        {
+          "id": 60,
+          "name": "Student60",
+          "scores": {
+            "ds": 65,
+            "algo": 71,
+            "os": 59,
+            "dbms": 59,
+            "cn": 96
+          }
+        },
+        {
+          "id": 61,
+          "name": "Student61",
+          "scores": {
+            "ds": 85,
+            "algo": 54,
+            "os": 87,
+            "dbms": 70,
+            "cn": 63
+          }
+        },
+        {
+          "id": 62,
+          "name": "Student62",
+          "scores": {
+            "ds": 50,
+            "algo": 84,
+            "os": 58,
+            "dbms": 60,
+            "cn": 75
+          }
+        },
+        {
+          "id": 63,
+          "name": "Student63",
+          "scores": {
+            "ds": 77,
+            "algo": 70,
+            "os": 58,
+            "dbms": 82,
+            "cn": 74
+          }
+        },
+        {
+          "id": 64,
+          "name": "Student64",
+          "scores": {
+            "ds": 76,
+            "algo": 74,
+            "os": 62,
+            "dbms": 64,
+            "cn": 98
+          }
+        },
+        {
+          "id": 65,
+          "name": "Student65",
+          "scores": {
+            "ds": 68,
+            "algo": 89,
+            "os": 67,
+            "dbms": 93,
+            "cn": 74
+          }
+        },
+        {
+          "id": 66,
+          "name": "Student66",
+          "scores": {
+            "ds": 69,
+            "algo": 93,
+            "os": 81,
+            "dbms": 78,
+            "cn": 87
+          }
+        },
+        {
+          "id": 67,
+          "name": "Student67",
+          "scores": {
+            "ds": 73,
+            "algo": 91,
+            "os": 76,
+            "dbms": 93,
+            "cn": 81
+          }
+        },
+        {
+          "id": 68,
+          "name": "Student68",
+          "scores": {
+            "ds": 96,
+            "algo": 67,
+            "os": 99,
+            "dbms": 53,
+            "cn": 75
+          }
+        },
+        {
+          "id": 69,
+          "name": "Student69",
+          "scores": {
+            "ds": 64,
+            "algo": 53,
+            "os": 81,
+            "dbms": 77,
+            "cn": 70
+          }
+        },
+        {
+          "id": 70,
+          "name": "Student70",
+          "scores": {
+            "ds": 94,
+            "algo": 69,
+            "os": 77,
+            "dbms": 80,
+            "cn": 99
+          }
+        },
+        {
+          "id": 71,
+          "name": "Student71",
+          "scores": {
+            "ds": 95,
+            "algo": 94,
+            "os": 97,
+            "dbms": 96,
+            "cn": 73
+          }
+        },
+        {
+          "id": 72,
+          "name": "Student72",
+          "scores": {
+            "ds": 83,
+            "algo": 61,
+            "os": 82,
+            "dbms": 58,
+            "cn": 100
+          }
+        },
+        {
+          "id": 73,
+          "name": "Student73",
+          "scores": {
+            "ds": 86,
+            "algo": 99,
+            "os": 77,
+            "dbms": 64,
+            "cn": 98
+          }
+        },
+        {
+          "id": 74,
+          "name": "Student74",
+          "scores": {
+            "ds": 50,
+            "algo": 69,
+            "os": 53,
+            "dbms": 74,
+            "cn": 78
+          }
+        },
+        {
+          "id": 75,
+          "name": "Student75",
+          "scores": {
+            "ds": 71,
+            "algo": 73,
+            "os": 94,
+            "dbms": 69,
+            "cn": 75
+          }
+        },
+        {
+          "id": 76,
+          "name": "Student76",
+          "scores": {
+            "ds": 91,
+            "algo": 58,
+            "os": 75,
+            "dbms": 77,
+            "cn": 92
+          }
+        },
+        {
+          "id": 77,
+          "name": "Student77",
+          "scores": {
+            "ds": 71,
+            "algo": 96,
+            "os": 57,
+            "dbms": 83,
+            "cn": 89
+          }
+        },
+        {
+          "id": 78,
+          "name": "Student78",
+          "scores": {
+            "ds": 75,
+            "algo": 52,
+            "os": 66,
+            "dbms": 68,
+            "cn": 57
+          }
+        },
+        {
+          "id": 79,
+          "name": "Student79",
+          "scores": {
+            "ds": 64,
+            "algo": 50,
+            "os": 54,
+            "dbms": 87,
+            "cn": 70
+          }
+        },
+        {
+          "id": 80,
+          "name": "Student80",
+          "scores": {
+            "ds": 95,
+            "algo": 57,
+            "os": 81,
+            "dbms": 99,
+            "cn": 79
+          }
+        },
+        {
+          "id": 81,
+          "name": "Student81",
+          "scores": {
+            "ds": 78,
+            "algo": 59,
+            "os": 84,
+            "dbms": 58,
+            "cn": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "hod": {
+        "name": "Dr.Electronics",
+        "contact": {
+          "email": "electronics@university.edu",
+          "phone": "9916781888"
+        }
+      },
+      "students": [
+        {
+          "id": 82,
+          "name": "Student82",
+          "scores": {
+            "circuits": 70,
+            "em": 62,
+            "vlsi": 71,
+            "signals": 52,
+            "micro": 72
+          }
+        },
+        {
+          "id": 83,
+          "name": "Student83",
+          "scores": {
+            "circuits": 100,
+            "em": 97,
+            "vlsi": 61,
+            "signals": 89,
+            "micro": 95
+          }
+        },
+        {
+          "id": 84,
+          "name": "Student84",
+          "scores": {
+            "circuits": 59,
+            "em": 80,
+            "vlsi": 78,
+            "signals": 95,
+            "micro": 90
+          }
+        },
+        {
+          "id": 85,
+          "name": "Student85",
+          "scores": {
+            "circuits": 50,
+            "em": 77,
+            "vlsi": 100,
+            "signals": 73,
+            "micro": 52
+          }
+        },
+        {
+          "id": 86,
+          "name": "Student86",
+          "scores": {
+            "circuits": 59,
+            "em": 60,
+            "vlsi": 100,
+            "signals": 51,
+            "micro": 63
+          }
+        },
+        {
+          "id": 87,
+          "name": "Student87",
+          "scores": {
+            "circuits": 89,
+            "em": 85,
+            "vlsi": 81,
+            "signals": 68,
+            "micro": 83
+          }
+        },
+        {
+          "id": 88,
+          "name": "Student88",
+          "scores": {
+            "circuits": 86,
+            "em": 88,
+            "vlsi": 73,
+            "signals": 54,
+            "micro": 61
+          }
+        },
+        {
+          "id": 89,
+          "name": "Student89",
+          "scores": {
+            "circuits": 88,
+            "em": 65,
+            "vlsi": 82,
+            "signals": 64,
+            "micro": 96
+          }
+        },
+        {
+          "id": 90,
+          "name": "Student90",
+          "scores": {
+            "circuits": 96,
+            "em": 60,
+            "vlsi": 75,
+            "signals": 80,
+            "micro": 84
+          }
+        },
+        {
+          "id": 91,
+          "name": "Student91",
+          "scores": {
+            "circuits": 69,
+            "em": 62,
+            "vlsi": 71,
+            "signals": 75,
+            "micro": 74
+          }
+        },
+        {
+          "id": 92,
+          "name": "Student92",
+          "scores": {
+            "circuits": 73,
+            "em": 95,
+            "vlsi": 79,
+            "signals": 52,
+            "micro": 89
+          }
+        },
+        {
+          "id": 93,
+          "name": "Student93",
+          "scores": {
+            "circuits": 53,
+            "em": 60,
+            "vlsi": 64,
+            "signals": 61,
+            "micro": 78
+          }
+        },
+        {
+          "id": 94,
+          "name": "Student94",
+          "scores": {
+            "circuits": 56,
+            "em": 91,
+            "vlsi": 68,
+            "signals": 59,
+            "micro": 66
+          }
+        },
+        {
+          "id": 95,
+          "name": "Student95",
+          "scores": {
+            "circuits": 50,
+            "em": 74,
+            "vlsi": 50,
+            "signals": 86,
+            "micro": 87
+          }
+        },
+        {
+          "id": 96,
+          "name": "Student96",
+          "scores": {
+            "circuits": 75,
+            "em": 85,
+            "vlsi": 77,
+            "signals": 68,
+            "micro": 58
+          }
+        },
+        {
+          "id": 97,
+          "name": "Student97",
+          "scores": {
+            "circuits": 82,
+            "em": 58,
+            "vlsi": 94,
+            "signals": 65,
+            "micro": 90
+          }
+        },
+        {
+          "id": 98,
+          "name": "Student98",
+          "scores": {
+            "circuits": 98,
+            "em": 77,
+            "vlsi": 58,
+            "signals": 55,
+            "micro": 75
+          }
+        },
+        {
+          "id": 99,
+          "name": "Student99",
+          "scores": {
+            "circuits": 83,
+            "em": 88,
+            "vlsi": 53,
+            "signals": 54,
+            "micro": 90
+          }
+        },
+        {
+          "id": 100,
+          "name": "Student100",
+          "scores": {
+            "circuits": 100,
+            "em": 79,
+            "vlsi": 71,
+            "signals": 79,
+            "micro": 98
+          }
+        },
+        {
+          "id": 101,
+          "name": "Student101",
+          "scores": {
+            "circuits": 76,
+            "em": 52,
+            "vlsi": 86,
+            "signals": 85,
+            "micro": 75
+          }
+        },
+        {
+          "id": 102,
+          "name": "Student102",
+          "scores": {
+            "circuits": 60,
+            "em": 75,
+            "vlsi": 54,
+            "signals": 96,
+            "micro": 85
+          }
+        },
+        {
+          "id": 103,
+          "name": "Student103",
+          "scores": {
+            "circuits": 98,
+            "em": 60,
+            "vlsi": 66,
+            "signals": 82,
+            "micro": 79
+          }
+        },
+        {
+          "id": 104,
+          "name": "Student104",
+          "scores": {
+            "circuits": 88,
+            "em": 57,
+            "vlsi": 79,
+            "signals": 78,
+            "micro": 58
+          }
+        },
+        {
+          "id": 105,
+          "name": "Student105",
+          "scores": {
+            "circuits": 90,
+            "em": 57,
+            "vlsi": 96,
+            "signals": 51,
+            "micro": 56
+          }
+        },
+        {
+          "id": 106,
+          "name": "Student106",
+          "scores": {
+            "circuits": 64,
+            "em": 55,
+            "vlsi": 82,
+            "signals": 91,
+            "micro": 79
+          }
+        },
+        {
+          "id": 107,
+          "name": "Student107",
+          "scores": {
+            "circuits": 99,
+            "em": 78,
+            "vlsi": 51,
+            "signals": 97,
+            "micro": 53
+          }
+        },
+        {
+          "id": 108,
+          "name": "Student108",
+          "scores": {
+            "circuits": 51,
+            "em": 54,
+            "vlsi": 81,
+            "signals": 65,
+            "micro": 57
+          }
+        },
+        {
+          "id": 109,
+          "name": "Student109",
+          "scores": {
+            "circuits": 99,
+            "em": 58,
+            "vlsi": 70,
+            "signals": 82,
+            "micro": 66
+          }
+        },
+        {
+          "id": 110,
+          "name": "Student110",
+          "scores": {
+            "circuits": 96,
+            "em": 58,
+            "vlsi": 52,
+            "signals": 77,
+            "micro": 88
+          }
+        },
+        {
+          "id": 111,
+          "name": "Student111",
+          "scores": {
+            "circuits": 100,
+            "em": 66,
+            "vlsi": 100,
+            "signals": 70,
+            "micro": 96
+          }
+        },
+        {
+          "id": 112,
+          "name": "Student112",
+          "scores": {
+            "circuits": 84,
+            "em": 76,
+            "vlsi": 66,
+            "signals": 70,
+            "micro": 71
+          }
+        },
+        {
+          "id": 113,
+          "name": "Student113",
+          "scores": {
+            "circuits": 75,
+            "em": 74,
+            "vlsi": 90,
+            "signals": 94,
+            "micro": 66
+          }
+        },
+        {
+          "id": 114,
+          "name": "Student114",
+          "scores": {
+            "circuits": 71,
+            "em": 51,
+            "vlsi": 63,
+            "signals": 85,
+            "micro": 85
+          }
+        },
+        {
+          "id": 115,
+          "name": "Student115",
+          "scores": {
+            "circuits": 55,
+            "em": 52,
+            "vlsi": 66,
+            "signals": 77,
+            "micro": 94
+          }
+        },
+        {
+          "id": 116,
+          "name": "Student116",
+          "scores": {
+            "circuits": 65,
+            "em": 84,
+            "vlsi": 69,
+            "signals": 75,
+            "micro": 67
+          }
+        },
+        {
+          "id": 117,
+          "name": "Student117",
+          "scores": {
+            "circuits": 98,
+            "em": 57,
+            "vlsi": 68,
+            "signals": 55,
+            "micro": 58
+          }
+        },
+        {
+          "id": 118,
+          "name": "Student118",
+          "scores": {
+            "circuits": 90,
+            "em": 97,
+            "vlsi": 73,
+            "signals": 62,
+            "micro": 69
+          }
+        },
+        {
+          "id": 119,
+          "name": "Student119",
+          "scores": {
+            "circuits": 72,
+            "em": 64,
+            "vlsi": 92,
+            "signals": 51,
+            "micro": 69
+          }
+        },
+        {
+          "id": 120,
+          "name": "Student120",
+          "scores": {
+            "circuits": 60,
+            "em": 65,
+            "vlsi": 50,
+            "signals": 84,
+            "micro": 70
+          }
+        },
+        {
+          "id": 121,
+          "name": "Student121",
+          "scores": {
+            "circuits": 90,
+            "em": 79,
+            "vlsi": 75,
+            "signals": 65,
+            "micro": 60
+          }
+        },
+        {
+          "id": 122,
+          "name": "Student122",
+          "scores": {
+            "circuits": 50,
+            "em": 87,
+            "vlsi": 51,
+            "signals": 89,
+            "micro": 59
+          }
+        },
+        {
+          "id": 123,
+          "name": "Student123",
+          "scores": {
+            "circuits": 57,
+            "em": 95,
+            "vlsi": 55,
+            "signals": 87,
+            "micro": 89
+          }
+        },
+        {
+          "id": 124,
+          "name": "Student124",
+          "scores": {
+            "circuits": 91,
+            "em": 87,
+            "vlsi": 54,
+            "signals": 82,
+            "micro": 99
+          }
+        },
+        {
+          "id": 125,
+          "name": "Student125",
+          "scores": {
+            "circuits": 62,
+            "em": 50,
+            "vlsi": 91,
+            "signals": 62,
+            "micro": 79
+          }
+        },
+        {
+          "id": 126,
+          "name": "Student126",
+          "scores": {
+            "circuits": 70,
+            "em": 78,
+            "vlsi": 62,
+            "signals": 96,
+            "micro": 53
+          }
+        },
+        {
+          "id": 127,
+          "name": "Student127",
+          "scores": {
+            "circuits": 62,
+            "em": 81,
+            "vlsi": 79,
+            "signals": 60,
+            "micro": 79
+          }
+        },
+        {
+          "id": 128,
+          "name": "Student128",
+          "scores": {
+            "circuits": 75,
+            "em": 73,
+            "vlsi": 55,
+            "signals": 58,
+            "micro": 91
+          }
+        },
+        {
+          "id": 129,
+          "name": "Student129",
+          "scores": {
+            "circuits": 93,
+            "em": 60,
+            "vlsi": 82,
+            "signals": 52,
+            "micro": 50
+          }
+        },
+        {
+          "id": 130,
+          "name": "Student130",
+          "scores": {
+            "circuits": 57,
+            "em": 63,
+            "vlsi": 57,
+            "signals": 63,
+            "micro": 51
+          }
+        },
+        {
+          "id": 131,
+          "name": "Student131",
+          "scores": {
+            "circuits": 83,
+            "em": 68,
+            "vlsi": 80,
+            "signals": 57,
+            "micro": 82
+          }
+        },
+        {
+          "id": 132,
+          "name": "Student132",
+          "scores": {
+            "circuits": 89,
+            "em": 59,
+            "vlsi": 73,
+            "signals": 98,
+            "micro": 100
+          }
+        },
+        {
+          "id": 133,
+          "name": "Student133",
+          "scores": {
+            "circuits": 79,
+            "em": 53,
+            "vlsi": 79,
+            "signals": 55,
+            "micro": 55
+          }
+        },
+        {
+          "id": 134,
+          "name": "Student134",
+          "scores": {
+            "circuits": 92,
+            "em": 64,
+            "vlsi": 92,
+            "signals": 84,
+            "micro": 65
+          }
+        },
+        {
+          "id": 135,
+          "name": "Student135",
+          "scores": {
+            "circuits": 58,
+            "em": 62,
+            "vlsi": 75,
+            "signals": 96,
+            "micro": 85
+          }
+        },
+        {
+          "id": 136,
+          "name": "Student136",
+          "scores": {
+            "circuits": 77,
+            "em": 50,
+            "vlsi": 100,
+            "signals": 66,
+            "micro": 84
+          }
+        },
+        {
+          "id": 137,
+          "name": "Student137",
+          "scores": {
+            "circuits": 55,
+            "em": 81,
+            "vlsi": 64,
+            "signals": 61,
+            "micro": 91
+          }
+        },
+        {
+          "id": 138,
+          "name": "Student138",
+          "scores": {
+            "circuits": 88,
+            "em": 97,
+            "vlsi": 58,
+            "signals": 84,
+            "micro": 56
+          }
+        },
+        {
+          "id": 139,
+          "name": "Student139",
+          "scores": {
+            "circuits": 58,
+            "em": 53,
+            "vlsi": 76,
+            "signals": 74,
+            "micro": 82
+          }
+        },
+        {
+          "id": 140,
+          "name": "Student140",
+          "scores": {
+            "circuits": 81,
+            "em": 74,
+            "vlsi": 60,
+            "signals": 82,
+            "micro": 76
+          }
+        },
+        {
+          "id": 141,
+          "name": "Student141",
+          "scores": {
+            "circuits": 54,
+            "em": 86,
+            "vlsi": 93,
+            "signals": 78,
+            "micro": 52
+          }
+        },
+        {
+          "id": 142,
+          "name": "Student142",
+          "scores": {
+            "circuits": 94,
+            "em": 97,
+            "vlsi": 61,
+            "signals": 53,
+            "micro": 63
+          }
+        },
+        {
+          "id": 143,
+          "name": "Student143",
+          "scores": {
+            "circuits": 70,
+            "em": 74,
+            "vlsi": 60,
+            "signals": 59,
+            "micro": 87
+          }
+        },
+        {
+          "id": 144,
+          "name": "Student144",
+          "scores": {
+            "circuits": 79,
+            "em": 92,
+            "vlsi": 69,
+            "signals": 54,
+            "micro": 81
+          }
+        },
+        {
+          "id": 145,
+          "name": "Student145",
+          "scores": {
+            "circuits": 53,
+            "em": 94,
+            "vlsi": 60,
+            "signals": 89,
+            "micro": 85
+          }
+        },
+        {
+          "id": 146,
+          "name": "Student146",
+          "scores": {
+            "circuits": 63,
+            "em": 59,
+            "vlsi": 65,
+            "signals": 72,
+            "micro": 83
+          }
+        },
+        {
+          "id": 147,
+          "name": "Student147",
+          "scores": {
+            "circuits": 81,
+            "em": 63,
+            "vlsi": 85,
+            "signals": 82,
+            "micro": 54
+          }
+        },
+        {
+          "id": 148,
+          "name": "Student148",
+          "scores": {
+            "circuits": 50,
+            "em": 99,
+            "vlsi": 86,
+            "signals": 77,
+            "micro": 58
+          }
+        },
+        {
+          "id": 149,
+          "name": "Student149",
+          "scores": {
+            "circuits": 61,
+            "em": 74,
+            "vlsi": 93,
+            "signals": 50,
+            "micro": 81
+          }
+        },
+        {
+          "id": 150,
+          "name": "Student150",
+          "scores": {
+            "circuits": 82,
+            "em": 97,
+            "vlsi": 58,
+            "signals": 58,
+            "micro": 71
+          }
+        },
+        {
+          "id": 151,
+          "name": "Student151",
+          "scores": {
+            "circuits": 83,
+            "em": 86,
+            "vlsi": 57,
+            "signals": 64,
+            "micro": 72
+          }
+        },
+        {
+          "id": 152,
+          "name": "Student152",
+          "scores": {
+            "circuits": 51,
+            "em": 93,
+            "vlsi": 51,
+            "signals": 93,
+            "micro": 52
+          }
+        },
+        {
+          "id": 153,
+          "name": "Student153",
+          "scores": {
+            "circuits": 68,
+            "em": 92,
+            "vlsi": 68,
+            "signals": 78,
+            "micro": 96
+          }
+        },
+        {
+          "id": 154,
+          "name": "Student154",
+          "scores": {
+            "circuits": 89,
+            "em": 55,
+            "vlsi": 63,
+            "signals": 76,
+            "micro": 91
+          }
+        },
+        {
+          "id": 155,
+          "name": "Student155",
+          "scores": {
+            "circuits": 82,
+            "em": 65,
+            "vlsi": 65,
+            "signals": 90,
+            "micro": 58
+          }
+        },
+        {
+          "id": 156,
+          "name": "Student156",
+          "scores": {
+            "circuits": 92,
+            "em": 74,
+            "vlsi": 70,
+            "signals": 86,
+            "micro": 55
+          }
+        },
+        {
+          "id": 157,
+          "name": "Student157",
+          "scores": {
+            "circuits": 98,
+            "em": 85,
+            "vlsi": 70,
+            "signals": 55,
+            "micro": 61
+          }
+        },
+        {
+          "id": 158,
+          "name": "Student158",
+          "scores": {
+            "circuits": 92,
+            "em": 89,
+            "vlsi": 67,
+            "signals": 69,
+            "micro": 51
+          }
+        },
+        {
+          "id": 159,
+          "name": "Student159",
+          "scores": {
+            "circuits": 100,
+            "em": 64,
+            "vlsi": 70,
+            "signals": 95,
+            "micro": 75
+          }
+        },
+        {
+          "id": 160,
+          "name": "Student160",
+          "scores": {
+            "circuits": 84,
+            "em": 78,
+            "vlsi": 50,
+            "signals": 71,
+            "micro": 65
+          }
+        },
+        {
+          "id": 161,
+          "name": "Student161",
+          "scores": {
+            "circuits": 75,
+            "em": 59,
+            "vlsi": 99,
+            "signals": 75,
+            "micro": 83
+          }
+        },
+        {
+          "id": 162,
+          "name": "Student162",
+          "scores": {
+            "circuits": 67,
+            "em": 63,
+            "vlsi": 79,
+            "signals": 60,
+            "micro": 59
+          }
+        },
+        {
+          "id": 163,
+          "name": "Student163",
+          "scores": {
+            "circuits": 56,
+            "em": 66,
+            "vlsi": 65,
+            "signals": 55,
+            "micro": 92
+          }
+        },
+        {
+          "id": 164,
+          "name": "Student164",
+          "scores": {
+            "circuits": 65,
+            "em": 75,
+            "vlsi": 88,
+            "signals": 70,
+            "micro": 87
+          }
+        },
+        {
+          "id": 165,
+          "name": "Student165",
+          "scores": {
+            "circuits": 61,
+            "em": 70,
+            "vlsi": 66,
+            "signals": 68,
+            "micro": 72
+          }
+        },
+        {
+          "id": 166,
+          "name": "Student166",
+          "scores": {
+            "circuits": 97,
+            "em": 81,
+            "vlsi": 67,
+            "signals": 88,
+            "micro": 58
+          }
+        },
+        {
+          "id": 167,
+          "name": "Student167",
+          "scores": {
+            "circuits": 89,
+            "em": 55,
+            "vlsi": 82,
+            "signals": 72,
+            "micro": 73
+          }
+        },
+        {
+          "id": 168,
+          "name": "Student168",
+          "scores": {
+            "circuits": 61,
+            "em": 98,
+            "vlsi": 94,
+            "signals": 56,
+            "micro": 86
+          }
+        },
+        {
+          "id": 169,
+          "name": "Student169",
+          "scores": {
+            "circuits": 98,
+            "em": 77,
+            "vlsi": 93,
+            "signals": 87,
+            "micro": 57
+          }
+        },
+        {
+          "id": 170,
+          "name": "Student170",
+          "scores": {
+            "circuits": 91,
+            "em": 70,
+            "vlsi": 84,
+            "signals": 87,
+            "micro": 94
+          }
+        },
+        {
+          "id": 171,
+          "name": "Student171",
+          "scores": {
+            "circuits": 100,
+            "em": 62,
+            "vlsi": 97,
+            "signals": 92,
+            "micro": 56
+          }
+        },
+        {
+          "id": 172,
+          "name": "Student172",
+          "scores": {
+            "circuits": 70,
+            "em": 62,
+            "vlsi": 79,
+            "signals": 89,
+            "micro": 69
+          }
+        },
+        {
+          "id": 173,
+          "name": "Student173",
+          "scores": {
+            "circuits": 63,
+            "em": 71,
+            "vlsi": 92,
+            "signals": 99,
+            "micro": 56
+          }
+        },
+        {
+          "id": 174,
+          "name": "Student174",
+          "scores": {
+            "circuits": 63,
+            "em": 73,
+            "vlsi": 54,
+            "signals": 76,
+            "micro": 83
+          }
+        },
+        {
+          "id": 175,
+          "name": "Student175",
+          "scores": {
+            "circuits": 91,
+            "em": 57,
+            "vlsi": 65,
+            "signals": 53,
+            "micro": 70
+          }
+        },
+        {
+          "id": 176,
+          "name": "Student176",
+          "scores": {
+            "circuits": 89,
+            "em": 87,
+            "vlsi": 83,
+            "signals": 97,
+            "micro": 69
+          }
+        },
+        {
+          "id": 177,
+          "name": "Student177",
+          "scores": {
+            "circuits": 56,
+            "em": 98,
+            "vlsi": 98,
+            "signals": 73,
+            "micro": 86
+          }
+        },
+        {
+          "id": 178,
+          "name": "Student178",
+          "scores": {
+            "circuits": 74,
+            "em": 69,
+            "vlsi": 73,
+            "signals": 64,
+            "micro": 67
+          }
+        },
+        {
+          "id": 179,
+          "name": "Student179",
+          "scores": {
+            "circuits": 99,
+            "em": 53,
+            "vlsi": 57,
+            "signals": 98,
+            "micro": 96
+          }
+        },
+        {
+          "id": 180,
+          "name": "Student180",
+          "scores": {
+            "circuits": 92,
+            "em": 92,
+            "vlsi": 53,
+            "signals": 71,
+            "micro": 63
+          }
+        },
+        {
+          "id": 181,
+          "name": "Student181",
+          "scores": {
+            "circuits": 58,
+            "em": 60,
+            "vlsi": 72,
+            "signals": 67,
+            "micro": 80
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mechanical",
+      "hod": {
+        "name": "Dr.Mechanical",
+        "contact": {
+          "email": "mechanical@university.edu",
+          "phone": "9812896184"
+        }
+      },
+      "students": [
+        {
+          "id": 182,
+          "name": "Student182",
+          "scores": {
+            "thermo": 78,
+            "fluid": 76,
+            "dynamics": 88,
+            "cad": 75,
+            "cam": 93
+          }
+        },
+        {
+          "id": 183,
+          "name": "Student183",
+          "scores": {
+            "thermo": 71,
+            "fluid": 88,
+            "dynamics": 69,
+            "cad": 62,
+            "cam": 95
+          }
+        },
+        {
+          "id": 184,
+          "name": "Student184",
+          "scores": {
+            "thermo": 99,
+            "fluid": 80,
+            "dynamics": 73,
+            "cad": 58,
+            "cam": 72
+          }
+        },
+        {
+          "id": 185,
+          "name": "Student185",
+          "scores": {
+            "thermo": 76,
+            "fluid": 68,
+            "dynamics": 64,
+            "cad": 61,
+            "cam": 68
+          }
+        },
+        {
+          "id": 186,
+          "name": "Student186",
+          "scores": {
+            "thermo": 71,
+            "fluid": 63,
+            "dynamics": 78,
+            "cad": 92,
+            "cam": 50
+          }
+        },
+        {
+          "id": 187,
+          "name": "Student187",
+          "scores": {
+            "thermo": 69,
+            "fluid": 98,
+            "dynamics": 56,
+            "cad": 88,
+            "cam": 88
+          }
+        },
+        {
+          "id": 188,
+          "name": "Student188",
+          "scores": {
+            "thermo": 63,
+            "fluid": 60,
+            "dynamics": 59,
+            "cad": 60,
+            "cam": 83
+          }
+        },
+        {
+          "id": 189,
+          "name": "Student189",
+          "scores": {
+            "thermo": 90,
+            "fluid": 77,
+            "dynamics": 72,
+            "cad": 87,
+            "cam": 69
+          }
+        },
+        {
+          "id": 190,
+          "name": "Student190",
+          "scores": {
+            "thermo": 58,
+            "fluid": 88,
+            "dynamics": 54,
+            "cad": 80,
+            "cam": 73
+          }
+        },
+        {
+          "id": 191,
+          "name": "Student191",
+          "scores": {
+            "thermo": 67,
+            "fluid": 54,
+            "dynamics": 97,
+            "cad": 54,
+            "cam": 69
+          }
+        },
+        {
+          "id": 192,
+          "name": "Student192",
+          "scores": {
+            "thermo": 89,
+            "fluid": 80,
+            "dynamics": 71,
+            "cad": 78,
+            "cam": 51
+          }
+        },
+        {
+          "id": 193,
+          "name": "Student193",
+          "scores": {
+            "thermo": 57,
+            "fluid": 95,
+            "dynamics": 57,
+            "cad": 98,
+            "cam": 92
+          }
+        },
+        {
+          "id": 194,
+          "name": "Student194",
+          "scores": {
+            "thermo": 54,
+            "fluid": 90,
+            "dynamics": 82,
+            "cad": 91,
+            "cam": 90
+          }
+        },
+        {
+          "id": 195,
+          "name": "Student195",
+          "scores": {
+            "thermo": 57,
+            "fluid": 54,
+            "dynamics": 63,
+            "cad": 56,
+            "cam": 60
+          }
+        },
+        {
+          "id": 196,
+          "name": "Student196",
+          "scores": {
+            "thermo": 86,
+            "fluid": 83,
+            "dynamics": 79,
+            "cad": 66,
+            "cam": 94
+          }
+        },
+        {
+          "id": 197,
+          "name": "Student197",
+          "scores": {
+            "thermo": 54,
+            "fluid": 55,
+            "dynamics": 78,
+            "cad": 68,
+            "cam": 61
+          }
+        },
+        {
+          "id": 198,
+          "name": "Student198",
+          "scores": {
+            "thermo": 81,
+            "fluid": 54,
+            "dynamics": 50,
+            "cad": 78,
+            "cam": 73
+          }
+        },
+        {
+          "id": 199,
+          "name": "Student199",
+          "scores": {
+            "thermo": 82,
+            "fluid": 99,
+            "dynamics": 52,
+            "cad": 76,
+            "cam": 98
+          }
+        },
+        {
+          "id": 200,
+          "name": "Student200",
+          "scores": {
+            "thermo": 70,
+            "fluid": 68,
+            "dynamics": 97,
+            "cad": 85,
+            "cam": 86
+          }
+        },
+        {
+          "id": 201,
+          "name": "Student201",
+          "scores": {
+            "thermo": 70,
+            "fluid": 61,
+            "dynamics": 83,
+            "cad": 69,
+            "cam": 82
+          }
+        },
+        {
+          "id": 202,
+          "name": "Student202",
+          "scores": {
+            "thermo": 75,
+            "fluid": 75,
+            "dynamics": 83,
+            "cad": 59,
+            "cam": 82
+          }
+        },
+        {
+          "id": 203,
+          "name": "Student203",
+          "scores": {
+            "thermo": 86,
+            "fluid": 50,
+            "dynamics": 69,
+            "cad": 61,
+            "cam": 69
+          }
+        },
+        {
+          "id": 204,
+          "name": "Student204",
+          "scores": {
+            "thermo": 94,
+            "fluid": 86,
+            "dynamics": 88,
+            "cad": 65,
+            "cam": 66
+          }
+        },
+        {
+          "id": 205,
+          "name": "Student205",
+          "scores": {
+            "thermo": 70,
+            "fluid": 61,
+            "dynamics": 72,
+            "cad": 94,
+            "cam": 78
+          }
+        },
+        {
+          "id": 206,
+          "name": "Student206",
+          "scores": {
+            "thermo": 50,
+            "fluid": 65,
+            "dynamics": 100,
+            "cad": 69,
+            "cam": 80
+          }
+        },
+        {
+          "id": 207,
+          "name": "Student207",
+          "scores": {
+            "thermo": 83,
+            "fluid": 78,
+            "dynamics": 70,
+            "cad": 71,
+            "cam": 89
+          }
+        },
+        {
+          "id": 208,
+          "name": "Student208",
+          "scores": {
+            "thermo": 97,
+            "fluid": 85,
+            "dynamics": 77,
+            "cad": 56,
+            "cam": 52
+          }
+        },
+        {
+          "id": 209,
+          "name": "Student209",
+          "scores": {
+            "thermo": 50,
+            "fluid": 76,
+            "dynamics": 61,
+            "cad": 95,
+            "cam": 57
+          }
+        },
+        {
+          "id": 210,
+          "name": "Student210",
+          "scores": {
+            "thermo": 70,
+            "fluid": 82,
+            "dynamics": 66,
+            "cad": 86,
+            "cam": 90
+          }
+        },
+        {
+          "id": 211,
+          "name": "Student211",
+          "scores": {
+            "thermo": 64,
+            "fluid": 85,
+            "dynamics": 98,
+            "cad": 94,
+            "cam": 86
+          }
+        },
+        {
+          "id": 212,
+          "name": "Student212",
+          "scores": {
+            "thermo": 82,
+            "fluid": 51,
+            "dynamics": 78,
+            "cad": 99,
+            "cam": 75
+          }
+        },
+        {
+          "id": 213,
+          "name": "Student213",
+          "scores": {
+            "thermo": 94,
+            "fluid": 61,
+            "dynamics": 55,
+            "cad": 64,
+            "cam": 93
+          }
+        },
+        {
+          "id": 214,
+          "name": "Student214",
+          "scores": {
+            "thermo": 61,
+            "fluid": 65,
+            "dynamics": 59,
+            "cad": 62,
+            "cam": 59
+          }
+        },
+        {
+          "id": 215,
+          "name": "Student215",
+          "scores": {
+            "thermo": 59,
+            "fluid": 78,
+            "dynamics": 98,
+            "cad": 80,
+            "cam": 76
+          }
+        },
+        {
+          "id": 216,
+          "name": "Student216",
+          "scores": {
+            "thermo": 77,
+            "fluid": 98,
+            "dynamics": 80,
+            "cad": 66,
+            "cam": 90
+          }
+        },
+        {
+          "id": 217,
+          "name": "Student217",
+          "scores": {
+            "thermo": 53,
+            "fluid": 65,
+            "dynamics": 88,
+            "cad": 74,
+            "cam": 81
+          }
+        },
+        {
+          "id": 218,
+          "name": "Student218",
+          "scores": {
+            "thermo": 53,
+            "fluid": 78,
+            "dynamics": 62,
+            "cad": 64,
+            "cam": 89
+          }
+        },
+        {
+          "id": 219,
+          "name": "Student219",
+          "scores": {
+            "thermo": 63,
+            "fluid": 60,
+            "dynamics": 51,
+            "cad": 88,
+            "cam": 95
+          }
+        },
+        {
+          "id": 220,
+          "name": "Student220",
+          "scores": {
+            "thermo": 100,
+            "fluid": 65,
+            "dynamics": 54,
+            "cad": 64,
+            "cam": 85
+          }
+        },
+        {
+          "id": 221,
+          "name": "Student221",
+          "scores": {
+            "thermo": 72,
+            "fluid": 83,
+            "dynamics": 62,
+            "cad": 79,
+            "cam": 61
+          }
+        },
+        {
+          "id": 222,
+          "name": "Student222",
+          "scores": {
+            "thermo": 51,
+            "fluid": 50,
+            "dynamics": 57,
+            "cad": 97,
+            "cam": 65
+          }
+        },
+        {
+          "id": 223,
+          "name": "Student223",
+          "scores": {
+            "thermo": 50,
+            "fluid": 69,
+            "dynamics": 62,
+            "cad": 56,
+            "cam": 72
+          }
+        },
+        {
+          "id": 224,
+          "name": "Student224",
+          "scores": {
+            "thermo": 51,
+            "fluid": 91,
+            "dynamics": 51,
+            "cad": 87,
+            "cam": 82
+          }
+        },
+        {
+          "id": 225,
+          "name": "Student225",
+          "scores": {
+            "thermo": 73,
+            "fluid": 67,
+            "dynamics": 73,
+            "cad": 64,
+            "cam": 51
+          }
+        },
+        {
+          "id": 226,
+          "name": "Student226",
+          "scores": {
+            "thermo": 60,
+            "fluid": 78,
+            "dynamics": 63,
+            "cad": 84,
+            "cam": 98
+          }
+        },
+        {
+          "id": 227,
+          "name": "Student227",
+          "scores": {
+            "thermo": 53,
+            "fluid": 97,
+            "dynamics": 75,
+            "cad": 90,
+            "cam": 98
+          }
+        },
+        {
+          "id": 228,
+          "name": "Student228",
+          "scores": {
+            "thermo": 86,
+            "fluid": 65,
+            "dynamics": 74,
+            "cad": 57,
+            "cam": 82
+          }
+        },
+        {
+          "id": 229,
+          "name": "Student229",
+          "scores": {
+            "thermo": 70,
+            "fluid": 68,
+            "dynamics": 88,
+            "cad": 67,
+            "cam": 93
+          }
+        },
+        {
+          "id": 230,
+          "name": "Student230",
+          "scores": {
+            "thermo": 69,
+            "fluid": 64,
+            "dynamics": 86,
+            "cad": 80,
+            "cam": 78
+          }
+        },
+        {
+          "id": 231,
+          "name": "Student231",
+          "scores": {
+            "thermo": 50,
+            "fluid": 92,
+            "dynamics": 95,
+            "cad": 57,
+            "cam": 92
+          }
+        },
+        {
+          "id": 232,
+          "name": "Student232",
+          "scores": {
+            "thermo": 73,
+            "fluid": 62,
+            "dynamics": 87,
+            "cad": 85,
+            "cam": 84
+          }
+        },
+        {
+          "id": 233,
+          "name": "Student233",
+          "scores": {
+            "thermo": 94,
+            "fluid": 100,
+            "dynamics": 50,
+            "cad": 51,
+            "cam": 70
+          }
+        },
+        {
+          "id": 234,
+          "name": "Student234",
+          "scores": {
+            "thermo": 78,
+            "fluid": 98,
+            "dynamics": 92,
+            "cad": 96,
+            "cam": 83
+          }
+        },
+        {
+          "id": 235,
+          "name": "Student235",
+          "scores": {
+            "thermo": 82,
+            "fluid": 54,
+            "dynamics": 59,
+            "cad": 74,
+            "cam": 77
+          }
+        },
+        {
+          "id": 236,
+          "name": "Student236",
+          "scores": {
+            "thermo": 83,
+            "fluid": 74,
+            "dynamics": 69,
+            "cad": 67,
+            "cam": 67
+          }
+        },
+        {
+          "id": 237,
+          "name": "Student237",
+          "scores": {
+            "thermo": 73,
+            "fluid": 67,
+            "dynamics": 61,
+            "cad": 85,
+            "cam": 58
+          }
+        },
+        {
+          "id": 238,
+          "name": "Student238",
+          "scores": {
+            "thermo": 56,
+            "fluid": 84,
+            "dynamics": 56,
+            "cad": 100,
+            "cam": 97
+          }
+        },
+        {
+          "id": 239,
+          "name": "Student239",
+          "scores": {
+            "thermo": 67,
+            "fluid": 88,
+            "dynamics": 100,
+            "cad": 76,
+            "cam": 81
+          }
+        },
+        {
+          "id": 240,
+          "name": "Student240",
+          "scores": {
+            "thermo": 65,
+            "fluid": 73,
+            "dynamics": 56,
+            "cad": 66,
+            "cam": 61
+          }
+        },
+        {
+          "id": 241,
+          "name": "Student241",
+          "scores": {
+            "thermo": 98,
+            "fluid": 56,
+            "dynamics": 63,
+            "cad": 82,
+            "cam": 78
+          }
+        },
+        {
+          "id": 242,
+          "name": "Student242",
+          "scores": {
+            "thermo": 100,
+            "fluid": 60,
+            "dynamics": 70,
+            "cad": 51,
+            "cam": 80
+          }
+        },
+        {
+          "id": 243,
+          "name": "Student243",
+          "scores": {
+            "thermo": 91,
+            "fluid": 96,
+            "dynamics": 90,
+            "cad": 56,
+            "cam": 95
+          }
+        },
+        {
+          "id": 244,
+          "name": "Student244",
+          "scores": {
+            "thermo": 60,
+            "fluid": 94,
+            "dynamics": 94,
+            "cad": 64,
+            "cam": 99
+          }
+        },
+        {
+          "id": 245,
+          "name": "Student245",
+          "scores": {
+            "thermo": 94,
+            "fluid": 98,
+            "dynamics": 51,
+            "cad": 71,
+            "cam": 100
+          }
+        },
+        {
+          "id": 246,
+          "name": "Student246",
+          "scores": {
+            "thermo": 73,
+            "fluid": 86,
+            "dynamics": 97,
+            "cad": 92,
+            "cam": 87
+          }
+        },
+        {
+          "id": 247,
+          "name": "Student247",
+          "scores": {
+            "thermo": 54,
+            "fluid": 62,
+            "dynamics": 80,
+            "cad": 84,
+            "cam": 54
+          }
+        },
+        {
+          "id": 248,
+          "name": "Student248",
+          "scores": {
+            "thermo": 89,
+            "fluid": 91,
+            "dynamics": 77,
+            "cad": 77,
+            "cam": 51
+          }
+        },
+        {
+          "id": 249,
+          "name": "Student249",
+          "scores": {
+            "thermo": 84,
+            "fluid": 95,
+            "dynamics": 58,
+            "cad": 54,
+            "cam": 85
+          }
+        },
+        {
+          "id": 250,
+          "name": "Student250",
+          "scores": {
+            "thermo": 67,
+            "fluid": 63,
+            "dynamics": 71,
+            "cad": 92,
+            "cam": 79
+          }
+        },
+        {
+          "id": 251,
+          "name": "Student251",
+          "scores": {
+            "thermo": 97,
+            "fluid": 97,
+            "dynamics": 53,
+            "cad": 87,
+            "cam": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Civil",
+      "hod": {
+        "name": "Dr.Civil",
+        "contact": {
+          "email": "civil@university.edu",
+          "phone": "9749562141"
+        }
+      },
+      "students": [
+        {
+          "id": 252,
+          "name": "Student252",
+          "scores": {
+            "structures": 54,
+            "geo": 58,
+            "survey": 89,
+            "env": 66,
+            "transport": 79
+          }
+        },
+        {
+          "id": 253,
+          "name": "Student253",
+          "scores": {
+            "structures": 64,
+            "geo": 77,
+            "survey": 78,
+            "env": 53,
+            "transport": 55
+          }
+        },
+        {
+          "id": 254,
+          "name": "Student254",
+          "scores": {
+            "structures": 85,
+            "geo": 87,
+            "survey": 98,
+            "env": 81,
+            "transport": 55
+          }
+        },
+        {
+          "id": 255,
+          "name": "Student255",
+          "scores": {
+            "structures": 63,
+            "geo": 80,
+            "survey": 60,
+            "env": 100,
+            "transport": 73
+          }
+        },
+        {
+          "id": 256,
+          "name": "Student256",
+          "scores": {
+            "structures": 57,
+            "geo": 69,
+            "survey": 97,
+            "env": 90,
+            "transport": 50
+          }
+        },
+        {
+          "id": 257,
+          "name": "Student257",
+          "scores": {
+            "structures": 59,
+            "geo": 67,
+            "survey": 100,
+            "env": 80,
+            "transport": 60
+          }
+        },
+        {
+          "id": 258,
+          "name": "Student258",
+          "scores": {
+            "structures": 50,
+            "geo": 79,
+            "survey": 93,
+            "env": 96,
+            "transport": 97
+          }
+        },
+        {
+          "id": 259,
+          "name": "Student259",
+          "scores": {
+            "structures": 91,
+            "geo": 63,
+            "survey": 67,
+            "env": 78,
+            "transport": 99
+          }
+        },
+        {
+          "id": 260,
+          "name": "Student260",
+          "scores": {
+            "structures": 70,
+            "geo": 85,
+            "survey": 96,
+            "env": 78,
+            "transport": 77
+          }
+        },
+        {
+          "id": 261,
+          "name": "Student261",
+          "scores": {
+            "structures": 55,
+            "geo": 82,
+            "survey": 75,
+            "env": 99,
+            "transport": 81
+          }
+        },
+        {
+          "id": 262,
+          "name": "Student262",
+          "scores": {
+            "structures": 89,
+            "geo": 96,
+            "survey": 97,
+            "env": 61,
+            "transport": 72
+          }
+        },
+        {
+          "id": 263,
+          "name": "Student263",
+          "scores": {
+            "structures": 84,
+            "geo": 79,
+            "survey": 68,
+            "env": 77,
+            "transport": 52
+          }
+        },
+        {
+          "id": 264,
+          "name": "Student264",
+          "scores": {
+            "structures": 75,
+            "geo": 68,
+            "survey": 54,
+            "env": 63,
+            "transport": 74
+          }
+        },
+        {
+          "id": 265,
+          "name": "Student265",
+          "scores": {
+            "structures": 66,
+            "geo": 79,
+            "survey": 70,
+            "env": 91,
+            "transport": 83
+          }
+        },
+        {
+          "id": 266,
+          "name": "Student266",
+          "scores": {
+            "structures": 71,
+            "geo": 67,
+            "survey": 96,
+            "env": 88,
+            "transport": 86
+          }
+        },
+        {
+          "id": 267,
+          "name": "Student267",
+          "scores": {
+            "structures": 81,
+            "geo": 75,
+            "survey": 81,
+            "env": 78,
+            "transport": 70
+          }
+        },
+        {
+          "id": 268,
+          "name": "Student268",
+          "scores": {
+            "structures": 55,
+            "geo": 55,
+            "survey": 54,
+            "env": 79,
+            "transport": 70
+          }
+        },
+        {
+          "id": 269,
+          "name": "Student269",
+          "scores": {
+            "structures": 88,
+            "geo": 92,
+            "survey": 79,
+            "env": 95,
+            "transport": 57
+          }
+        },
+        {
+          "id": 270,
+          "name": "Student270",
+          "scores": {
+            "structures": 88,
+            "geo": 84,
+            "survey": 65,
+            "env": 74,
+            "transport": 51
+          }
+        },
+        {
+          "id": 271,
+          "name": "Student271",
+          "scores": {
+            "structures": 65,
+            "geo": 71,
+            "survey": 54,
+            "env": 59,
+            "transport": 83
+          }
+        },
+        {
+          "id": 272,
+          "name": "Student272",
+          "scores": {
+            "structures": 77,
+            "geo": 79,
+            "survey": 58,
+            "env": 95,
+            "transport": 96
+          }
+        },
+        {
+          "id": 273,
+          "name": "Student273",
+          "scores": {
+            "structures": 98,
+            "geo": 57,
+            "survey": 84,
+            "env": 88,
+            "transport": 73
+          }
+        },
+        {
+          "id": 274,
+          "name": "Student274",
+          "scores": {
+            "structures": 52,
+            "geo": 65,
+            "survey": 51,
+            "env": 73,
+            "transport": 54
+          }
+        },
+        {
+          "id": 275,
+          "name": "Student275",
+          "scores": {
+            "structures": 87,
+            "geo": 77,
+            "survey": 57,
+            "env": 87,
+            "transport": 70
+          }
+        },
+        {
+          "id": 276,
+          "name": "Student276",
+          "scores": {
+            "structures": 95,
+            "geo": 63,
+            "survey": 63,
+            "env": 94,
+            "transport": 66
+          }
+        },
+        {
+          "id": 277,
+          "name": "Student277",
+          "scores": {
+            "structures": 61,
+            "geo": 61,
+            "survey": 50,
+            "env": 77,
+            "transport": 72
+          }
+        },
+        {
+          "id": 278,
+          "name": "Student278",
+          "scores": {
+            "structures": 79,
+            "geo": 65,
+            "survey": 94,
+            "env": 56,
+            "transport": 85
+          }
+        },
+        {
+          "id": 279,
+          "name": "Student279",
+          "scores": {
+            "structures": 83,
+            "geo": 74,
+            "survey": 86,
+            "env": 59,
+            "transport": 81
+          }
+        },
+        {
+          "id": 280,
+          "name": "Student280",
+          "scores": {
+            "structures": 61,
+            "geo": 52,
+            "survey": 62,
+            "env": 71,
+            "transport": 79
+          }
+        },
+        {
+          "id": 281,
+          "name": "Student281",
+          "scores": {
+            "structures": 53,
+            "geo": 61,
+            "survey": 54,
+            "env": 79,
+            "transport": 82
+          }
+        },
+        {
+          "id": 282,
+          "name": "Student282",
+          "scores": {
+            "structures": 61,
+            "geo": 94,
+            "survey": 53,
+            "env": 68,
+            "transport": 67
+          }
+        },
+        {
+          "id": 283,
+          "name": "Student283",
+          "scores": {
+            "structures": 64,
+            "geo": 73,
+            "survey": 94,
+            "env": 84,
+            "transport": 80
+          }
+        },
+        {
+          "id": 284,
+          "name": "Student284",
+          "scores": {
+            "structures": 92,
+            "geo": 61,
+            "survey": 94,
+            "env": 55,
+            "transport": 82
+          }
+        },
+        {
+          "id": 285,
+          "name": "Student285",
+          "scores": {
+            "structures": 64,
+            "geo": 69,
+            "survey": 59,
+            "env": 94,
+            "transport": 91
+          }
+        },
+        {
+          "id": 286,
+          "name": "Student286",
+          "scores": {
+            "structures": 71,
+            "geo": 93,
+            "survey": 63,
+            "env": 81,
+            "transport": 90
+          }
+        },
+        {
+          "id": 287,
+          "name": "Student287",
+          "scores": {
+            "structures": 73,
+            "geo": 87,
+            "survey": 70,
+            "env": 51,
+            "transport": 52
+          }
+        },
+        {
+          "id": 288,
+          "name": "Student288",
+          "scores": {
+            "structures": 71,
+            "geo": 57,
+            "survey": 73,
+            "env": 78,
+            "transport": 59
+          }
+        },
+        {
+          "id": 289,
+          "name": "Student289",
+          "scores": {
+            "structures": 99,
+            "geo": 90,
+            "survey": 92,
+            "env": 74,
+            "transport": 77
+          }
+        },
+        {
+          "id": 290,
+          "name": "Student290",
+          "scores": {
+            "structures": 85,
+            "geo": 67,
+            "survey": 61,
+            "env": 58,
+            "transport": 69
+          }
+        },
+        {
+          "id": 291,
+          "name": "Student291",
+          "scores": {
+            "structures": 90,
+            "geo": 95,
+            "survey": 55,
+            "env": 72,
+            "transport": 65
+          }
+        },
+        {
+          "id": 292,
+          "name": "Student292",
+          "scores": {
+            "structures": 96,
+            "geo": 63,
+            "survey": 51,
+            "env": 85,
+            "transport": 59
+          }
+        },
+        {
+          "id": 293,
+          "name": "Student293",
+          "scores": {
+            "structures": 96,
+            "geo": 69,
+            "survey": 75,
+            "env": 94,
+            "transport": 78
+          }
+        },
+        {
+          "id": 294,
+          "name": "Student294",
+          "scores": {
+            "structures": 58,
+            "geo": 74,
+            "survey": 89,
+            "env": 73,
+            "transport": 100
+          }
+        },
+        {
+          "id": 295,
+          "name": "Student295",
+          "scores": {
+            "structures": 80,
+            "geo": 76,
+            "survey": 81,
+            "env": 60,
+            "transport": 51
+          }
+        },
+        {
+          "id": 296,
+          "name": "Student296",
+          "scores": {
+            "structures": 64,
+            "geo": 97,
+            "survey": 53,
+            "env": 83,
+            "transport": 82
+          }
+        },
+        {
+          "id": 297,
+          "name": "Student297",
+          "scores": {
+            "structures": 53,
+            "geo": 76,
+            "survey": 70,
+            "env": 61,
+            "transport": 63
+          }
+        },
+        {
+          "id": 298,
+          "name": "Student298",
+          "scores": {
+            "structures": 93,
+            "geo": 80,
+            "survey": 73,
+            "env": 98,
+            "transport": 61
+          }
+        },
+        {
+          "id": 299,
+          "name": "Student299",
+          "scores": {
+            "structures": 100,
+            "geo": 93,
+            "survey": 88,
+            "env": 91,
+            "transport": 98
+          }
+        },
+        {
+          "id": 300,
+          "name": "Student300",
+          "scores": {
+            "structures": 65,
+            "geo": 77,
+            "survey": 72,
+            "env": 66,
+            "transport": 62
+          }
+        },
+        {
+          "id": 301,
+          "name": "Student301",
+          "scores": {
+            "structures": 71,
+            "geo": 81,
+            "survey": 75,
+            "env": 85,
+            "transport": 86
+          }
+        },
+        {
+          "id": 302,
+          "name": "Student302",
+          "scores": {
+            "structures": 52,
+            "geo": 76,
+            "survey": 61,
+            "env": 62,
+            "transport": 100
+          }
+        },
+        {
+          "id": 303,
+          "name": "Student303",
+          "scores": {
+            "structures": 97,
+            "geo": 95,
+            "survey": 82,
+            "env": 61,
+            "transport": 51
+          }
+        },
+        {
+          "id": 304,
+          "name": "Student304",
+          "scores": {
+            "structures": 80,
+            "geo": 94,
+            "survey": 85,
+            "env": 52,
+            "transport": 75
+          }
+        },
+        {
+          "id": 305,
+          "name": "Student305",
+          "scores": {
+            "structures": 51,
+            "geo": 79,
+            "survey": 89,
+            "env": 63,
+            "transport": 76
+          }
+        },
+        {
+          "id": 306,
+          "name": "Student306",
+          "scores": {
+            "structures": 75,
+            "geo": 64,
+            "survey": 70,
+            "env": 78,
+            "transport": 76
+          }
+        },
+        {
+          "id": 307,
+          "name": "Student307",
+          "scores": {
+            "structures": 68,
+            "geo": 90,
+            "survey": 74,
+            "env": 96,
+            "transport": 97
+          }
+        },
+        {
+          "id": 308,
+          "name": "Student308",
+          "scores": {
+            "structures": 86,
+            "geo": 69,
+            "survey": 72,
+            "env": 59,
+            "transport": 85
+          }
+        },
+        {
+          "id": 309,
+          "name": "Student309",
+          "scores": {
+            "structures": 92,
+            "geo": 96,
+            "survey": 79,
+            "env": 58,
+            "transport": 51
+          }
+        },
+        {
+          "id": 310,
+          "name": "Student310",
+          "scores": {
+            "structures": 99,
+            "geo": 78,
+            "survey": 53,
+            "env": 63,
+            "transport": 71
+          }
+        },
+        {
+          "id": 311,
+          "name": "Student311",
+          "scores": {
+            "structures": 53,
+            "geo": 61,
+            "survey": 88,
+            "env": 69,
+            "transport": 92
+          }
+        },
+        {
+          "id": 312,
+          "name": "Student312",
+          "scores": {
+            "structures": 88,
+            "geo": 95,
+            "survey": 97,
+            "env": 96,
+            "transport": 100
+          }
+        },
+        {
+          "id": 313,
+          "name": "Student313",
+          "scores": {
+            "structures": 58,
+            "geo": 61,
+            "survey": 92,
+            "env": 57,
+            "transport": 86
+          }
+        },
+        {
+          "id": 314,
+          "name": "Student314",
+          "scores": {
+            "structures": 100,
+            "geo": 81,
+            "survey": 85,
+            "env": 99,
+            "transport": 87
+          }
+        },
+        {
+          "id": 315,
+          "name": "Student315",
+          "scores": {
+            "structures": 75,
+            "geo": 65,
+            "survey": 59,
+            "env": 68,
+            "transport": 66
+          }
+        },
+        {
+          "id": 316,
+          "name": "Student316",
+          "scores": {
+            "structures": 96,
+            "geo": 76,
+            "survey": 73,
+            "env": 99,
+            "transport": 91
+          }
+        },
+        {
+          "id": 317,
+          "name": "Student317",
+          "scores": {
+            "structures": 74,
+            "geo": 79,
+            "survey": 95,
+            "env": 70,
+            "transport": 50
+          }
+        },
+        {
+          "id": 318,
+          "name": "Student318",
+          "scores": {
+            "structures": 54,
+            "geo": 54,
+            "survey": 59,
+            "env": 68,
+            "transport": 70
+          }
+        },
+        {
+          "id": 319,
+          "name": "Student319",
+          "scores": {
+            "structures": 65,
+            "geo": 99,
+            "survey": 93,
+            "env": 97,
+            "transport": 84
+          }
+        },
+        {
+          "id": 320,
+          "name": "Student320",
+          "scores": {
+            "structures": 69,
+            "geo": 100,
+            "survey": 71,
+            "env": 51,
+            "transport": 64
+          }
+        },
+        {
+          "id": 321,
+          "name": "Student321",
+          "scores": {
+            "structures": 93,
+            "geo": 71,
+            "survey": 56,
+            "env": 91,
+            "transport": 53
+          }
+        },
+        {
+          "id": 322,
+          "name": "Student322",
+          "scores": {
+            "structures": 79,
+            "geo": 63,
+            "survey": 52,
+            "env": 99,
+            "transport": 96
+          }
+        },
+        {
+          "id": 323,
+          "name": "Student323",
+          "scores": {
+            "structures": 58,
+            "geo": 54,
+            "survey": 81,
+            "env": 80,
+            "transport": 70
+          }
+        },
+        {
+          "id": 324,
+          "name": "Student324",
+          "scores": {
+            "structures": 68,
+            "geo": 82,
+            "survey": 67,
+            "env": 89,
+            "transport": 80
+          }
+        },
+        {
+          "id": 325,
+          "name": "Student325",
+          "scores": {
+            "structures": 66,
+            "geo": 58,
+            "survey": 55,
+            "env": 65,
+            "transport": 88
+          }
+        },
+        {
+          "id": 326,
+          "name": "Student326",
+          "scores": {
+            "structures": 88,
+            "geo": 70,
+            "survey": 69,
+            "env": 93,
+            "transport": 58
+          }
+        },
+        {
+          "id": 327,
+          "name": "Student327",
+          "scores": {
+            "structures": 68,
+            "geo": 87,
+            "survey": 95,
+            "env": 74,
+            "transport": 72
+          }
+        },
+        {
+          "id": 328,
+          "name": "Student328",
+          "scores": {
+            "structures": 99,
+            "geo": 71,
+            "survey": 76,
+            "env": 55,
+            "transport": 85
+          }
+        },
+        {
+          "id": 329,
+          "name": "Student329",
+          "scores": {
+            "structures": 53,
+            "geo": 88,
+            "survey": 77,
+            "env": 75,
+            "transport": 55
+          }
+        },
+        {
+          "id": 330,
+          "name": "Student330",
+          "scores": {
+            "structures": 97,
+            "geo": 66,
+            "survey": 66,
+            "env": 52,
+            "transport": 68
+          }
+        },
+        {
+          "id": 331,
+          "name": "Student331",
+          "scores": {
+            "structures": 67,
+            "geo": 60,
+            "survey": 64,
+            "env": 67,
+            "transport": 66
+          }
+        },
+        {
+          "id": 332,
+          "name": "Student332",
+          "scores": {
+            "structures": 90,
+            "geo": 80,
+            "survey": 88,
+            "env": 66,
+            "transport": 92
+          }
+        },
+        {
+          "id": 333,
+          "name": "Student333",
+          "scores": {
+            "structures": 61,
+            "geo": 68,
+            "survey": 92,
+            "env": 99,
+            "transport": 50
+          }
+        },
+        {
+          "id": 334,
+          "name": "Student334",
+          "scores": {
+            "structures": 78,
+            "geo": 80,
+            "survey": 56,
+            "env": 83,
+            "transport": 99
+          }
+        },
+        {
+          "id": 335,
+          "name": "Student335",
+          "scores": {
+            "structures": 100,
+            "geo": 50,
+            "survey": 100,
+            "env": 52,
+            "transport": 72
+          }
+        },
+        {
+          "id": 336,
+          "name": "Student336",
+          "scores": {
+            "structures": 68,
+            "geo": 72,
+            "survey": 54,
+            "env": 69,
+            "transport": 96
+          }
+        },
+        {
+          "id": 337,
+          "name": "Student337",
+          "scores": {
+            "structures": 51,
+            "geo": 97,
+            "survey": 65,
+            "env": 70,
+            "transport": 65
+          }
+        },
+        {
+          "id": 338,
+          "name": "Student338",
+          "scores": {
+            "structures": 100,
+            "geo": 65,
+            "survey": 85,
+            "env": 87,
+            "transport": 81
+          }
+        },
+        {
+          "id": 339,
+          "name": "Student339",
+          "scores": {
+            "structures": 51,
+            "geo": 52,
+            "survey": 57,
+            "env": 78,
+            "transport": 89
+          }
+        },
+        {
+          "id": 340,
+          "name": "Student340",
+          "scores": {
+            "structures": 89,
+            "geo": 62,
+            "survey": 73,
+            "env": 91,
+            "transport": 59
+          }
+        },
+        {
+          "id": 341,
+          "name": "Student341",
+          "scores": {
+            "structures": 81,
+            "geo": 50,
+            "survey": 57,
+            "env": 53,
+            "transport": 72
+          }
+        },
+        {
+          "id": 342,
+          "name": "Student342",
+          "scores": {
+            "structures": 100,
+            "geo": 81,
+            "survey": 68,
+            "env": 72,
+            "transport": 54
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "hod": {
+        "name": "Dr.Mathematics",
+        "contact": {
+          "email": "mathematics@university.edu",
+          "phone": "9616553513"
+        }
+      },
+      "students": [
+        {
+          "id": 343,
+          "name": "Student343",
+          "scores": {
+            "algebra": 85,
+            "calc": 94,
+            "stats": 86,
+            "prob": 85,
+            "geometry": 75
+          }
+        },
+        {
+          "id": 344,
+          "name": "Student344",
+          "scores": {
+            "algebra": 69,
+            "calc": 57,
+            "stats": 56,
+            "prob": 68,
+            "geometry": 68
+          }
+        },
+        {
+          "id": 345,
+          "name": "Student345",
+          "scores": {
+            "algebra": 77,
+            "calc": 62,
+            "stats": 89,
+            "prob": 80,
+            "geometry": 88
+          }
+        },
+        {
+          "id": 346,
+          "name": "Student346",
+          "scores": {
+            "algebra": 58,
+            "calc": 91,
+            "stats": 92,
+            "prob": 84,
+            "geometry": 97
+          }
+        },
+        {
+          "id": 347,
+          "name": "Student347",
+          "scores": {
+            "algebra": 72,
+            "calc": 66,
+            "stats": 85,
+            "prob": 99,
+            "geometry": 78
+          }
+        },
+        {
+          "id": 348,
+          "name": "Student348",
+          "scores": {
+            "algebra": 74,
+            "calc": 59,
+            "stats": 98,
+            "prob": 99,
+            "geometry": 56
+          }
+        },
+        {
+          "id": 349,
+          "name": "Student349",
+          "scores": {
+            "algebra": 57,
+            "calc": 74,
+            "stats": 54,
+            "prob": 62,
+            "geometry": 60
+          }
+        },
+        {
+          "id": 350,
+          "name": "Student350",
+          "scores": {
+            "algebra": 65,
+            "calc": 97,
+            "stats": 81,
+            "prob": 58,
+            "geometry": 85
+          }
+        },
+        {
+          "id": 351,
+          "name": "Student351",
+          "scores": {
+            "algebra": 67,
+            "calc": 95,
+            "stats": 98,
+            "prob": 79,
+            "geometry": 50
+          }
+        },
+        {
+          "id": 352,
+          "name": "Student352",
+          "scores": {
+            "algebra": 94,
+            "calc": 87,
+            "stats": 50,
+            "prob": 90,
+            "geometry": 63
+          }
+        },
+        {
+          "id": 353,
+          "name": "Student353",
+          "scores": {
+            "algebra": 71,
+            "calc": 65,
+            "stats": 94,
+            "prob": 98,
+            "geometry": 80
+          }
+        },
+        {
+          "id": 354,
+          "name": "Student354",
+          "scores": {
+            "algebra": 91,
+            "calc": 80,
+            "stats": 99,
+            "prob": 100,
+            "geometry": 53
+          }
+        },
+        {
+          "id": 355,
+          "name": "Student355",
+          "scores": {
+            "algebra": 95,
+            "calc": 75,
+            "stats": 72,
+            "prob": 51,
+            "geometry": 99
+          }
+        },
+        {
+          "id": 356,
+          "name": "Student356",
+          "scores": {
+            "algebra": 89,
+            "calc": 50,
+            "stats": 59,
+            "prob": 93,
+            "geometry": 94
+          }
+        },
+        {
+          "id": 357,
+          "name": "Student357",
+          "scores": {
+            "algebra": 82,
+            "calc": 99,
+            "stats": 82,
+            "prob": 87,
+            "geometry": 59
+          }
+        },
+        {
+          "id": 358,
+          "name": "Student358",
+          "scores": {
+            "algebra": 80,
+            "calc": 63,
+            "stats": 74,
+            "prob": 96,
+            "geometry": 74
+          }
+        },
+        {
+          "id": 359,
+          "name": "Student359",
+          "scores": {
+            "algebra": 53,
+            "calc": 87,
+            "stats": 75,
+            "prob": 62,
+            "geometry": 92
+          }
+        },
+        {
+          "id": 360,
+          "name": "Student360",
+          "scores": {
+            "algebra": 80,
+            "calc": 83,
+            "stats": 77,
+            "prob": 69,
+            "geometry": 84
+          }
+        },
+        {
+          "id": 361,
+          "name": "Student361",
+          "scores": {
+            "algebra": 66,
+            "calc": 86,
+            "stats": 61,
+            "prob": 82,
+            "geometry": 51
+          }
+        },
+        {
+          "id": 362,
+          "name": "Student362",
+          "scores": {
+            "algebra": 67,
+            "calc": 94,
+            "stats": 72,
+            "prob": 85,
+            "geometry": 87
+          }
+        },
+        {
+          "id": 363,
+          "name": "Student363",
+          "scores": {
+            "algebra": 60,
+            "calc": 81,
+            "stats": 76,
+            "prob": 64,
+            "geometry": 86
+          }
+        },
+        {
+          "id": 364,
+          "name": "Student364",
+          "scores": {
+            "algebra": 64,
+            "calc": 56,
+            "stats": 50,
+            "prob": 100,
+            "geometry": 65
+          }
+        },
+        {
+          "id": 365,
+          "name": "Student365",
+          "scores": {
+            "algebra": 92,
+            "calc": 77,
+            "stats": 95,
+            "prob": 88,
+            "geometry": 60
+          }
+        },
+        {
+          "id": 366,
+          "name": "Student366",
+          "scores": {
+            "algebra": 84,
+            "calc": 65,
+            "stats": 86,
+            "prob": 92,
+            "geometry": 96
+          }
+        },
+        {
+          "id": 367,
+          "name": "Student367",
+          "scores": {
+            "algebra": 59,
+            "calc": 62,
+            "stats": 73,
+            "prob": 90,
+            "geometry": 87
+          }
+        },
+        {
+          "id": 368,
+          "name": "Student368",
+          "scores": {
+            "algebra": 79,
+            "calc": 90,
+            "stats": 52,
+            "prob": 61,
+            "geometry": 54
+          }
+        },
+        {
+          "id": 369,
+          "name": "Student369",
+          "scores": {
+            "algebra": 66,
+            "calc": 91,
+            "stats": 73,
+            "prob": 85,
+            "geometry": 98
+          }
+        },
+        {
+          "id": 370,
+          "name": "Student370",
+          "scores": {
+            "algebra": 57,
+            "calc": 70,
+            "stats": 66,
+            "prob": 90,
+            "geometry": 95
+          }
+        },
+        {
+          "id": 371,
+          "name": "Student371",
+          "scores": {
+            "algebra": 56,
+            "calc": 88,
+            "stats": 91,
+            "prob": 92,
+            "geometry": 74
+          }
+        },
+        {
+          "id": 372,
+          "name": "Student372",
+          "scores": {
+            "algebra": 63,
+            "calc": 95,
+            "stats": 87,
+            "prob": 95,
+            "geometry": 62
+          }
+        },
+        {
+          "id": 373,
+          "name": "Student373",
+          "scores": {
+            "algebra": 64,
+            "calc": 74,
+            "stats": 95,
+            "prob": 93,
+            "geometry": 62
+          }
+        },
+        {
+          "id": 374,
+          "name": "Student374",
+          "scores": {
+            "algebra": 92,
+            "calc": 79,
+            "stats": 78,
+            "prob": 92,
+            "geometry": 51
+          }
+        },
+        {
+          "id": 375,
+          "name": "Student375",
+          "scores": {
+            "algebra": 71,
+            "calc": 78,
+            "stats": 69,
+            "prob": 63,
+            "geometry": 79
+          }
+        },
+        {
+          "id": 376,
+          "name": "Student376",
+          "scores": {
+            "algebra": 86,
+            "calc": 95,
+            "stats": 71,
+            "prob": 96,
+            "geometry": 82
+          }
+        },
+        {
+          "id": 377,
+          "name": "Student377",
+          "scores": {
+            "algebra": 66,
+            "calc": 67,
+            "stats": 54,
+            "prob": 60,
+            "geometry": 87
+          }
+        },
+        {
+          "id": 378,
+          "name": "Student378",
+          "scores": {
+            "algebra": 97,
+            "calc": 56,
+            "stats": 80,
+            "prob": 60,
+            "geometry": 74
+          }
+        },
+        {
+          "id": 379,
+          "name": "Student379",
+          "scores": {
+            "algebra": 83,
+            "calc": 68,
+            "stats": 71,
+            "prob": 91,
+            "geometry": 82
+          }
+        },
+        {
+          "id": 380,
+          "name": "Student380",
+          "scores": {
+            "algebra": 58,
+            "calc": 67,
+            "stats": 58,
+            "prob": 92,
+            "geometry": 77
+          }
+        },
+        {
+          "id": 381,
+          "name": "Student381",
+          "scores": {
+            "algebra": 70,
+            "calc": 97,
+            "stats": 63,
+            "prob": 74,
+            "geometry": 75
+          }
+        },
+        {
+          "id": 382,
+          "name": "Student382",
+          "scores": {
+            "algebra": 57,
+            "calc": 67,
+            "stats": 71,
+            "prob": 57,
+            "geometry": 61
+          }
+        },
+        {
+          "id": 383,
+          "name": "Student383",
+          "scores": {
+            "algebra": 55,
+            "calc": 83,
+            "stats": 68,
+            "prob": 77,
+            "geometry": 53
+          }
+        },
+        {
+          "id": 384,
+          "name": "Student384",
+          "scores": {
+            "algebra": 88,
+            "calc": 51,
+            "stats": 56,
+            "prob": 53,
+            "geometry": 68
+          }
+        },
+        {
+          "id": 385,
+          "name": "Student385",
+          "scores": {
+            "algebra": 72,
+            "calc": 71,
+            "stats": 95,
+            "prob": 78,
+            "geometry": 73
+          }
+        },
+        {
+          "id": 386,
+          "name": "Student386",
+          "scores": {
+            "algebra": 52,
+            "calc": 100,
+            "stats": 80,
+            "prob": 80,
+            "geometry": 52
+          }
+        },
+        {
+          "id": 387,
+          "name": "Student387",
+          "scores": {
+            "algebra": 56,
+            "calc": 100,
+            "stats": 71,
+            "prob": 56,
+            "geometry": 58
+          }
+        },
+        {
+          "id": 388,
+          "name": "Student388",
+          "scores": {
+            "algebra": 66,
+            "calc": 75,
+            "stats": 71,
+            "prob": 98,
+            "geometry": 82
+          }
+        },
+        {
+          "id": 389,
+          "name": "Student389",
+          "scores": {
+            "algebra": 86,
+            "calc": 72,
+            "stats": 65,
+            "prob": 66,
+            "geometry": 63
+          }
+        },
+        {
+          "id": 390,
+          "name": "Student390",
+          "scores": {
+            "algebra": 85,
+            "calc": 82,
+            "stats": 73,
+            "prob": 63,
+            "geometry": 95
+          }
+        },
+        {
+          "id": 391,
+          "name": "Student391",
+          "scores": {
+            "algebra": 90,
+            "calc": 83,
+            "stats": 53,
+            "prob": 98,
+            "geometry": 98
+          }
+        },
+        {
+          "id": 392,
+          "name": "Student392",
+          "scores": {
+            "algebra": 65,
+            "calc": 92,
+            "stats": 68,
+            "prob": 81,
+            "geometry": 70
+          }
+        },
+        {
+          "id": 393,
+          "name": "Student393",
+          "scores": {
+            "algebra": 72,
+            "calc": 67,
+            "stats": 51,
+            "prob": 84,
+            "geometry": 81
+          }
+        },
+        {
+          "id": 394,
+          "name": "Student394",
+          "scores": {
+            "algebra": 63,
+            "calc": 87,
+            "stats": 74,
+            "prob": 93,
+            "geometry": 93
+          }
+        },
+        {
+          "id": 395,
+          "name": "Student395",
+          "scores": {
+            "algebra": 71,
+            "calc": 89,
+            "stats": 63,
+            "prob": 83,
+            "geometry": 59
+          }
+        },
+        {
+          "id": 396,
+          "name": "Student396",
+          "scores": {
+            "algebra": 64,
+            "calc": 81,
+            "stats": 99,
+            "prob": 98,
+            "geometry": 80
+          }
+        }
+      ]
+    }
+  ],
+  "getStudentById": "function(id) { ... }"
+}
